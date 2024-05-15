@@ -1,5 +1,5 @@
-Instagram Ban Service
 Hello,
+Instagram Ban Service
 
 We can ban and remove Instagram accounts permanent deletion
 from 0 followers to 2 million followers
